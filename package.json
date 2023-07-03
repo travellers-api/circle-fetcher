@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "dayjs": "^1.11.8",
     "node-fetch": "2"
   },
   "devDependencies": {
